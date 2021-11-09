@@ -88,16 +88,9 @@ buttons = [
         InlineKeyboardButton(text="ꜱᴏᴜʀᴄᴇ 💫", url=f"https://github.com/electro444/TGN-Robot"),
         InlineKeyboardButton(
             text="ꜱᴜᴘᴘᴏʀᴛ ⚡", url=f"https://t.me/thepikachusupport"
-        ),
-    ],
-    [
-        
-        ),
-    ],
     [
         InlineKeyboardButton(text="ʜᴇʟᴘ ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅꜱ", callback_data="help_back"),
     ],
-]
 
 
 HELP_STRINGS = """
