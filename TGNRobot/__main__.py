@@ -95,9 +95,9 @@ buttons = [
 
 HELP_STRINGS = """
 `ʏᴏᴜ ᴄᴀɴ ᴄʜᴏᴏꜱᴇ ᴀɴ ᴏᴘᴛɪᴏɴ ʙᴇʟᴏᴡ, ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴀ ʙᴜᴛᴛᴏɴ..`
-ᴀʟꜱᴏ ʏᴏᴜ ᴄᴀɴ ᴀꜱᴋ ᴀɴʏᴛʜɪɴɢ ɪɴ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ [⚡](https://telegra.ph/file/17cc2b380ebfb498ced0a.jpg)"""
+ᴀʟꜱᴏ ʏᴏᴜ ᴄᴀɴ ᴀꜱᴋ ᴀɴʏᴛʜɪɴɢ ɪɴ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ [⚡](https://telegra.ph/file/0e31705689c7921c279ef.jpg)"""
 
-START_IMG = "https://telegra.ph/file/17cc2b380ebfb498ced0a.jpg"
+START_IMG = "https://telegra.ph/file/0e31705689c7921c279ef.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project [My Creator](t.me/ELECTRO_444) \
